@@ -9,7 +9,7 @@ The dataset can be download from here https://www.kaggle.com/ronitf/heart-diseas
 - Pandas 
 - Matplotlib
 - Seaborn
-- Sklearn
+- Scikit Learn
 - Jupyter Notebook
 
 ### Package Installation
