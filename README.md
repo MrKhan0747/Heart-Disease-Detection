@@ -12,14 +12,13 @@ The dataset can be download from here https://www.kaggle.com/ronitf/heart-diseas
 - Sklearn
 - Jupyter Notebook
 
-#### Package Installation
-
-'''
+### Package Installation
+```
 pip install numpy
 pip install pandas
 pip install seaborn
 pip install scikit-learn
 pip install matplotlib
-'''
+```
 
 Jupyter Notebook Installation Guide  https://jupyter.org/install
